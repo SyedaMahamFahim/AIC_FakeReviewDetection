@@ -1,0 +1,18 @@
+.banner-bg-img{
+    background-image: url('../../images/background-banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 180px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.banner-bg-img a{
+    color: #6351ce !important;
+}
+@media only screen and (min-width: 220px) and (max-width: 659px){
+    /*Mobile [250px -> 768px]*/
+    .banner-bg-img{
+        padding: 100px;
+    }
+}
