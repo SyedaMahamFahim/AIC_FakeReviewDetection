@@ -1,0 +1,16 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #6351ce !important;
+  border-color: #6351ce;
+}
+a {
+  color: white !important;
+  text-decoration: none !important;
+}
+p{
+  font-family: "Poppins" !important
+}
