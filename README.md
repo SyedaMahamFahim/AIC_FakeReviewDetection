@@ -1,5 +1,5 @@
 
-# Fake Review Detection
+# Fake Review Detection With Django And React
 
 
 # Authors
